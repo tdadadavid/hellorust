@@ -1,0 +1,6 @@
+### Setup
+<hr>
+```
+    cargo run
+    
+```
