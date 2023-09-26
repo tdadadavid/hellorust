@@ -1,5 +1,6 @@
 ### Setup
 <hr>
 
-```cargo run
+```
+cargo run
 ```
